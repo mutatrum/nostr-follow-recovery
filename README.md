@@ -14,7 +14,7 @@ You can also add your private key - do this at your own risk. If you do, it will
 
 # Usage
 
-Edit the `.env` file and fill in your pubkey (hex or npub format, and optionally your private key. 
+Edit the `.env` file and fill in your pubkey (hex or npub format), and optionally your private key (hex format). 
 
 If you don't fill in the private key, it'll write the constructed event to console and you have to find a way to sign and publish it.
 
