@@ -1,0 +1,25 @@
+{
+  "name": "nostr-follow-recovery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "recovery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutatrum/nostr-follow-recovery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mutatrum/nostr-follow-recovery/issues"
+  },
+  "homepage": "https://github.com/mutatrum/nostr-follow-recovery#readme",
+  "dependencies": {
+    "bech32": "^2.0.0",
+    "dotenv": "^16.0.3",
+    "nostr": "github:jb55/nostr-js",
+    "ws": "^8.12.1"
+  }
+}
